@@ -1,4 +1,4 @@
-import seems.seems as seems
+import seems
 
 @seems.ReturnValue().IsEven
 @seems.ReturnValue().IsInteger
